@@ -45,7 +45,8 @@ Install dependencies:
 ```
 npm install
 ```
-```Set up Cloudinary:
+Set up Cloudinary:
+```
 REACT_APP_CLOUD_NAME=your-cloud-name
 REACT_APP_API_KEY=your-api-key
 REACT_APP_API_SECRET=your-api-secret
